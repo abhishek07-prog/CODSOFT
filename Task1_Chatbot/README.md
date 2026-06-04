@@ -1,4 +1,4 @@
-\# Rule-Based Chatbot
+# Rule-Based Chatbot
 
 
 
@@ -6,25 +6,25 @@ A simple rule-based chatbot built using Python and CustomTkinter.
 
 
 
-\## Features
+## Features
 
 
 
-\- GUI Interface
+- GUI Interface
 
-\- Greetings and Farewells
+- Greetings and Farewells
 
-\- Date and Time Responses
+- Date and Time Responses
 
-\- Joke Responses
+- Joke Responses
 
-\- Help Command
+- Help Command
 
-\- Message Timestamps
+- Message Timestamps
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -38,7 +38,7 @@ python main.py
 
 
 
-\## Author
+## Author
 
 
 
