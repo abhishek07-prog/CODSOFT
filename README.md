@@ -28,13 +28,13 @@ Technologies Used:
 
 \### Task 2
 
-Status: In Progress 
+Status: In Progress
 
 
 
 \### Task 3
 
-Status: In Progress 
+Status: In Progress
 
 
 
