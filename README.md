@@ -1,4 +1,4 @@
-\# CODSOFT Internship Tasks
+# CODSOFT Internship Tasks
 
 
 
@@ -6,11 +6,11 @@ This repository contains all tasks completed during my CodSoft Internship.
 
 
 
-\## Tasks
+## Tasks
 
 
 
-\### Task 1 - Rule-Based Chatbot
+### Task 1 - Rule-Based Chatbot
 
 Status: Completed ✓
 
@@ -18,27 +18,27 @@ Status: Completed ✓
 
 Technologies Used:
 
-\- Python
+- Python
 
-\- Tkinter
+- Tkinter
 
-\- CustomTkinter
-
-
-
-\### Task 2
-
-Status: In Progress
+- CustomTkinter
 
 
 
-\### Task 3
+### Task 2
 
 Status: In Progress
 
 
 
-\## Author
+### Task 3
+
+Status: In Progress
+
+
+
+## Author
 
 
 
