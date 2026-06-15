@@ -26,15 +26,39 @@ Technologies Used:
 
 
 
-### Task 2
+### Task 2 - Tic Tac Toe Game
 
-Status: In Progress
+Status: Completed ✓
 
 
 
-### Task 3
+Technologies Used:
 
-Status: In Progress
+- Python
+
+- Pygame
+
+
+
+### Task 3 Image Captioning AI
+
+Status: Completed ✓
+
+
+
+Technologies Used:
+
+- Python
+
+- CustomTkinter (GUI)
+
+- PyTorch (Deep Learning)
+
+- Hugging Face Transformers
+
+- Salesforce BLIP Image Captioning Model
+
+- Pillow (Image Processing)
 
 
 
